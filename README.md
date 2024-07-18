@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66979ceebf471856f5e911d3?variant=dark&roadmaps=devops%2Cpython%2Cgolang)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66979ceebf471856f5e911d3?variant=dark)](https://roadmap.sh)
 
 <!--
 **vrozaksen/vrozaksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
