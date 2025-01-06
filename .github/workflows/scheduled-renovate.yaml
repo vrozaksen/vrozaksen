@@ -12,7 +12,7 @@ on:
         type: boolean
       logLevel:
         description: "Log-Level"
-        default: "debug"
+        default: "info"
         required: false
   schedule:
     - cron: "0 * * * *"
