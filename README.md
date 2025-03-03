@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 [![roadmap.sh](https://roadmap.sh/card/wide/66979ceebf471856f5e911d3?variant=dark)](https://roadmap.sh)
 
@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
