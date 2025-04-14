@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2043%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4490 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-🌆 Daytime                8436 commits        ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-🌃 Evening                15977 commits       █████████████░░░░░░░░░░░░   51.65 % 
-🌙 Night                  2033 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+🌞 Morning                4991 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+🌆 Daytime                9370 commits        ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+🌃 Evening                17742 commits       █████████████░░░░░░░░░░░░   51.63 % 
+🌙 Night                  2259 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 ```
 
 
